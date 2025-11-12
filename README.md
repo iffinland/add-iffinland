@@ -29,7 +29,7 @@ Below are **suggested** categories to get started. You are **not** limited to th
 > - Use short language tags (e.g., `en`, `es`, `de`) and UTC offsets (e.g., `UTC-5`)
 > - Placeholders use en‑dashes `—` for empty cells
 
-### Developer (Platform or Q-Apps)
+### Developers (Platform or Q-Apps)
 _Builds/maintains Qortal Core, Qortal Hub, or Q-Apps; ships features end-to-end across frontend/backend and tooling._
 
 | GitHub | Languages | Timezone | Notes |
