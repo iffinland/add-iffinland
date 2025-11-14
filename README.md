@@ -29,6 +29,13 @@ Below are **suggested** categories to get started. You are **not** limited to th
 > - Use short language tags (e.g., `en`, `es`, `de`) and UTC offsets (e.g., `UTC-5`)
 > - Placeholders use en‑dashes `—` for empty cells
 
+### Developers (Platform or Q-Apps)
+_Builds/maintains Qortal Core, Qortal Hub, or Q-Apps; ships features end-to-end across frontend/backend and tooling._
+
+| GitHub | Languages | Timezone | Notes |
+|---|---|---|---|
+| [QuickMythril](https://github.com/QuickMythril) | en | UTC-5 | Core / Hub / Q-Apps |
+
 ### Translators
 _People who translate UI, docs, and announcements. Please list your languages._
 
@@ -119,7 +126,7 @@ You can use the GitHub web UI — no CLI required. The process takes a minute or
 **Row format example:**
 
 ```
-| @alice | es, en | UTC+1 | Available on weekends |
+| [alice](https://github.com/alice) | es, en | UTC+1 | Available on weekends |
 ```
 
 > If you don’t know your UTC offset, use the [UTC time zone converter](https://www.utctime.net/utc-time-zone-converter).
