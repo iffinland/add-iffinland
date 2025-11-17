@@ -35,14 +35,14 @@ _Builds/maintains Qortal Core, Qortal Hub, or Q-Apps; ships features end-to-end 
 | GitHub | Languages | Timezone | Notes |
 |---|---|---|---|
 | [QuickMythril](https://github.com/QuickMythril) | en | UTC-5 | Core / Hub / Q-Apps |
-| [iffinland] (https://github.com/iffinland) | ee, fi, ru, (en) | UTC+3 | only Q-Apps | I'm available when it happens |
+| [iffinland](https://github.com/iffinland) | ee, fi, ru, (en) | UTC+3 | only Q-Apps | I'm available when it happens |
 
 ### Translators
 _People who translate UI, docs, and announcements. Please list your languages._
 
 | GitHub | Languages | Timezone | Notes |
-| [iffinland] (https://github.com/iffinland) | ee, fi, ru, (en) | UTC+3 | I'm available when it happens |
-| Role pending | — | — | — |
+|---|---|---|---|
+| [iffinland](https://github.com/iffinland) | ee, fi, ru, (en) | UTC+3 | I'm available when it happens |
 
 ### Issue Triage
 _Find feedback from forums/social/Discord/etc. and create actionable GitHub issues in the right repo._
@@ -62,8 +62,8 @@ _Review pull requests for correctness, clarity, and alignment with project style
 _Write or improve READMEs, guides, FAQs, API/docs, and contributor onboarding material._
 
 | GitHub | Languages | Timezone | Notes |
-| [iffinland] (https://github.com/iffinland) | ee, fi, ru, (en) | UTC+3 | I'm available when it happens |
-| Role pending | — | — | — |
+|---|---|---|---|
+| [iffinland](https://github.com/iffinland) | ee, fi, ru, (en) | UTC+3 | I'm available when it happens |
 
 ### QA / Testing
 _Test features, write repro steps, suggest test cases, and help maintain test matrices._
